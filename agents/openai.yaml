@@ -1,0 +1,4 @@
+interface:
+  display_name: "硬字幕占位轴"
+  short_description: "检测硬字幕块并生成逐帧校正的 ASS 待翻译占位轴"
+  default_prompt: "Use $hard-subtitle-holder to detect hardcoded subtitle blocks and generate a reviewed ASS holder timeline."
